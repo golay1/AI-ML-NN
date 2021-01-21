@@ -1,4 +1,4 @@
-Golay Nie 1001678015
+Finds shortest route. See image for map.
 
 Program uses Python 3.7
 
@@ -9,7 +9,4 @@ Other functions to read input files and organize cities and paths.
 
 run "python find_route.py input_filename.txt origin_city destination_city heuristic_filename.txt"
 
-
 city names are case sensitive
-
-**IMPORTANT** input file and heuristic file must NOT have EMPTY LINES after END OF INPUT
