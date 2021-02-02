@@ -1,2 +1,2 @@
 # AI-ML-NN
-various artificial intelligence, machine learning, and neural network programs
+Various artificial intelligence, machine learning, and neural network programs
